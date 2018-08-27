@@ -143,6 +143,9 @@ myplot(FieldGoals/MinutesPlayed)
 myplot(Points/FieldGoals)
 
 
+print("Hello William")
+
+
 1:5
 
 getwd()
